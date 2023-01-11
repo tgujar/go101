@@ -1,0 +1,2 @@
+Hello CSE224!
+This file is read by Go
